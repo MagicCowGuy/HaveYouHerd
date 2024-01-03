@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f049fde81f2ff3499cb4540a2ecb5f8, type: 3}
+  m_Name: Level-0-1
+  m_EditorClassIdentifier: 
+  levelName: Training
+  levelCode: 0
+  description: fdsfds
+  instructions: fdsa
+  seed: 16747
+  sheepCount: 2
+  levelWidth: 3
+  levelHeight: 6
+  areaTerrain: 0
+  spawnPostion: 0
+  targetX: 0
+  targetY: 8
+  targetWidth: 12
+  targetHeight: 8
+  playerSpawnPoint: {x: 0, y: -6}
+  tileTypes: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  tileMods: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
